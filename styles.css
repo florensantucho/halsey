@@ -1,0 +1,31 @@
+body {
+  font-family: Calibri, Arial, Helvetica, sans-serif; }
+
+nav {
+  border-bottom: 2px solid #1fb3ed; }
+
+li {
+  list-style: none; }
+
+h2 {
+  color: red;
+  font-size: 24px;
+  text-align: center; }
+
+.flori {
+  color: #1fb3ed; }
+
+p {
+  color: gray;
+  font-size: 16px; }
+
+p {
+  margin: 100px;
+  text-align: center;
+  text-align: justify; }
+
+form {
+  border-radius: 5px;
+  border: 2px  solid #1fb3ed; }
+
+/*# sourceMappingURL=styles.css.map */
